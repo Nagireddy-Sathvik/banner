@@ -8,7 +8,7 @@ html,body{
 
 .main-image{
     position: relative;
-    background:url(../images/background.jpeg);
+    background:url(../image/image.jpg);
     background-size: cover;
     height: 600px;
     overflow: hidden;
@@ -31,7 +31,7 @@ html,body{
 }
 
 .container h1 span{
-    border: 6px solid white;
+    border: 6px solid rgb(110, 200, 25);
     padding: 6px 14px;
     display:inline-block;
 }
